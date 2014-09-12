@@ -16,9 +16,6 @@ html, body {
 	font-family: Verdana, Geneva, Arial, sans-serif;
 	letter-spacing: 4.5px;
 }
-footer{
-	display: none;
-}
 
 #main {
 	background-image: url('../images/bg.jpg');
